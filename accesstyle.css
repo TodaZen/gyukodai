@@ -1,0 +1,17 @@
+/*accesのこんてんつようCSS*/
+
+.accesscontents{
+    
+    padding: 20px 10px;
+    background-color: #181717;
+    background-size: cover;
+    height: 60%;
+    width: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+}
+

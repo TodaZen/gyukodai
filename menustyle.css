@@ -1,0 +1,41 @@
+/*menuのこんてんつようCSS*/
+.menucontents{
+    
+    padding: 20px 10px;
+    background-color: #181717;
+    background-size: cover;
+    height: 60%;
+    width: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+}
+
+.menubox{
+    
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid #444;
+}
+.menubox ul{   
+    padding-left:0; 
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+      
+}
+.menubox li{
+    width:30% ;
+    list-style:none
+    
+}
+.img img{
+    width: 100%;
+    height: auto;
+}
+.menutitle{
+font-size: 1.4em;
+}
