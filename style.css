@@ -73,7 +73,7 @@ main {
 
 .honbun {
     padding: 60px 20px;
-    background: url(/VCD/iamge/sumi.png) no-repeat center center/cover;
+    background: url(https://github.com/TodaZen/gyukodai/blob/main/iamge/sumi.png?raw=true) no-repeat center center/cover;
     background-size: cover;
     height: 80vh;
     display: flex;
